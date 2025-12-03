@@ -1,0 +1,4 @@
+uname -a #uname imprime información sobre el sistema operativo y el kernel. -a es una opción que significa "todo", por lo que muestra toda la información disponible en una sola línea. 
+lscpu #Es una utilidad que recopila y muestra información detallada sobre la arquitectura de la CPU del sistema. -h le dice al comando que muestre los tamaños en un formato fácil de leer para humanos. 
+free -h #free muestra la cantidad total de memoria física (RAM) libre y utilizada, así como la memoria de intercambio (swap) en el sistema. -h le dice al comando que muestre los tamaños en un formato fácil de leer para humanos (ej. en MB o GB, en lugar de bytes o KB por defecto). 
+df -h #df reporta el uso del espacio en disco de los sistemas de archivos montados. -h muestra los tamaños de almacenamiento en un formato legible (GB, MB). 
