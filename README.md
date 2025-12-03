@@ -1,2 +1,2 @@
-# Trabajo-en-clase-2
+# Trabajo-en-clase-2 Linux/Unix
 T_T
